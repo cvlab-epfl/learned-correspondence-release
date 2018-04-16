@@ -1,3 +1,6 @@
+# IMPORTANT
+
+This is a fork. Go to [upstream](https://github.com/vcg-uvic/learned-correspondence-release) for support and issues.
 
 # Learning to Find Good Correspondences (CVPR 2018)
 
